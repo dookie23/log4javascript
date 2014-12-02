@@ -1,0 +1,26 @@
+{
+  "name": "log4javascript",
+  "main": "log4javascript.js",
+  "version": "1.4.10",
+  "homepage": "https://github.com/dookie23/log4javascript",
+  "authors": [
+    "Tim Down"
+  ],
+  "description": "Log4Javascript to use with bower",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "log",
+    "javascript"
+  ],
+  "license": "Apache 2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
